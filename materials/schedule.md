@@ -8,7 +8,7 @@
 # Weekly Schedule
 
 | **Week** | **Topic** | **Details** |
-| --- | --- | --- |
+| :---: | --- | --- |
 | **1** | Chapter 1: Fundamental of Quantitative Design and Analysis | Classes of Computers, Defining Computer Architecture, Trends in Technology, Trends in Power and Energy in Integrated Circuits, Trends in Cost, Dependability |
 | **2** | Benchmark | Desktop Benchmarks, Server Benchmarks, Putting It All Together: Performance, Price, and Power |
 | **3** | Chapter 2: Memory Hierarchy Design | Basic of Memory Hierarchy, Memory Technology and Optimizations, Reducing Power Consumption in SDRAMs |
