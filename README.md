@@ -15,6 +15,8 @@ This course focuses on advanced topics in the design and analysis of computer ar
 - **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
   
 - **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
+
+- **[Weekly Schedule](./materials/schedule.md)**: Find detailed course content, schedules, and requirements for the current semester.
   
 - **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
   
