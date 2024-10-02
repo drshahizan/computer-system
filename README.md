@@ -10,6 +10,19 @@
 ## Course Synopsis
 This course focuses on advanced topics in the design and analysis of computer architectures. Topics covered include instruction set design, pipelining, instruction- level parallelism, high-speed memory systems, storage systems, interconnection networks, and multiprocessor architectures. Students will have an opportunity to perform research in these and other areas in the field of computer architecture. An undergraduate course in computer architecture (or equivalent) is the prerequisite.
 
+## 🔥 Important Things
+
+- **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
+  
+- **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
+  
+- **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
+  
+- **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
+  
+- **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
+
+
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/computer-system/issues) for any improvements, suggestions or errors in the content.
 
