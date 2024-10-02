@@ -6,7 +6,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fproject-management&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 # Advanced Computer System & Architecture
-This course is designed to provide students with in depth knowledge on software project planning, cost estimation and scheduling, project management tools, factors influencing productivity and success, productivity metrics, analysis of options and risks, software process improvement, software contracts and intelectual property and approaches to maintenance and long term software development.
+This course focuses on advanced topics in the design and analysis of computer architectures. Topics covered include instruction set design, pipelining, instruction- level parallelism, high-speed memory systems, storage systems, interconnection networks, and multiprocessor architectures. Students will have an opportunity to perform research in these and other areas in the field of computer architecture. An undergraduate course in computer architecture (or equivalent) is the prerequisite.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/research-design/issues) for any improvements, suggestions or errors in the content.
