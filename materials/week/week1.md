@@ -7,11 +7,9 @@
 
 # Chapter 1: Fundamentals of Quantitative Design and Analysis
 
-# Introduction to Software Project Management (SPM)
-
 <p align="center">
-  <a href="https://drshahizan.github.io/spm/week1.html" target="_blank">
-    <img src="../images/week1.png" height="800" />
+  <a href="https://drshahizan.github.io/acsa/week1.html" target="_blank">
+    <img src="../../images/week1.png" height="800" />
   </a>
 </p>
 
