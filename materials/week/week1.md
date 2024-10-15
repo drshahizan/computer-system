@@ -50,6 +50,10 @@ Computers are categorized into various classes, each designed to fulfill specifi
 
 Computer architecture encompasses the foundational principles that dictate the design, organization, and functionality of computer systems. It involves a detailed consideration of various components such as the CPU, memory, and I/O subsystems, as well as how these elements interoperate to execute instructions efficiently and effectively.
 
+<p align="center">
+    <img src="../../images/week1/week1b.png" height="600" />
+</p>
+
 #### 2.1. Central Processing Unit (CPU)
 - **ALU (Arithmetic Logic Unit)**: The ALU is responsible for executing arithmetic operations (such as addition and multiplication) and logical operations (such as comparisons). It serves as the computational core of the CPU, performing the operations that drive computer functionality.
 - **Control Unit**: The control unit orchestrates the execution of instructions by managing data flow between the CPU, memory, and peripheral devices. It ensures that instructions are fetched, decoded, and executed in the correct sequence, coordinating the various components of the computer system.
