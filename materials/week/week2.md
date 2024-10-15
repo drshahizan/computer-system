@@ -96,7 +96,7 @@ Server storage benchmarks evaluate how well storage systems perform when managin
 Benchmarking is not solely about achieving peak performance; it also involves finding an optimal balance between performance, cost, and power consumption. This triad is essential for making informed decisions that maximize efficiency and minimize total cost of ownership while reducing environmental impact.
 
 <p align="center">
-    <img src="../../images/week2/week3c.png" height="400" />
+    <img src="../../images/week2/week2c.png" height="400" />
 </p>
 
 
