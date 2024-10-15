@@ -57,6 +57,11 @@ System performance benchmarks provide a holistic evaluation of a desktop's perfo
 ## 2. Server Benchmarks
 Server benchmarks focus on evaluating the performance of server components under enterprise-level workloads, including data processing, virtualization, and database management. These benchmarks are essential for enterprises to ensure that their servers can support mission-critical applications reliably and efficiently.
 
+<p align="center">
+    <img src="../../images/week2/week2b.png" height="400" />
+</p>
+
+
 ### 2.1. CPU Benchmarks
 Server CPU benchmarks assess the throughput and latency of processors, which are fundamental to the management of high-intensity applications and large volumes of concurrent data processing.
 - **Throughput and Latency**: Measures the server's ability to process data efficiently under heavy loads, offering insights into how effectively it can manage multiple simultaneous requests.
@@ -89,6 +94,11 @@ Server storage benchmarks evaluate how well storage systems perform when managin
 
 ## 3. Putting It All Together: Performance, Price, and Power
 Benchmarking is not solely about achieving peak performance; it also involves finding an optimal balance between performance, cost, and power consumption. This triad is essential for making informed decisions that maximize efficiency and minimize total cost of ownership while reducing environmental impact.
+
+<p align="center">
+    <img src="../../images/week2/week3c.png" height="400" />
+</p>
+
 
 ### 3.1. Performance Metrics
 Performance metrics help evaluate system efficiency, offering a framework for comparing various hardware configurations and understanding their suitability for specific applications.
