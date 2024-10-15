@@ -81,6 +81,10 @@ Computer architecture encompasses the foundational principles that dictate the d
 
 The evolution of computer architecture is profoundly shaped by emerging technological trends, including advancements in hardware, novel computational models, and changing paradigms in how computing resources are utilized.
 
+<p align="center">
+    <img src="../../images/week1/week1c.png" height="500" />
+</p>
+
 #### 3.1. Moore’s Law and Beyond
 - **Transistor Scaling**: Moore's Law has historically predicted the exponential growth of computational power through the doubling of transistor counts on integrated circuits every 18-24 months. This increase has driven significant advancements in performance and efficiency across computational devices.
 - **Limitations of Moore’s Law**: As transistor sizes approach atomic scales, fundamental physical and economic barriers are being encountered. Issues such as quantum tunneling, increased leakage currents, and thermal dissipation challenges have limited further miniaturization, necessitating a shift to alternative technologies.
