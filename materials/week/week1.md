@@ -8,7 +8,7 @@
 # Chapter 1: Fundamentals of Quantitative Design and Analysis
 
 <p align="center">
-  <a href="https://drshahizan.github.io/acsa/week1.html" target="_blank">
+  <a href="https://drshahizan.github.io/acsa/MCSS2313w1.html" target="_blank">
     <img src="../../images/week1.png" height="800" />
   </a>
 </p>
