@@ -130,7 +130,7 @@ Energy efficiency remains a pivotal concern in computer architecture, given the 
 Economic considerations are critical in the evolution and adoption of computing technologies. Factors such as fabrication complexity, economies of scale, and research and development investments all influence the cost dynamics of computer components.
 
 <p align="center">
-    <img src="../../images/week1/week1e.png" height="400" />
+    <img src="../../images/week1/week1e.png" height="300" />
 </p>
 
 #### 5.1. Cost of Fabrication
