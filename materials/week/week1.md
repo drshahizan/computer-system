@@ -106,6 +106,11 @@ The evolution of computer architecture is profoundly shaped by emerging technolo
 
 Energy efficiency remains a pivotal concern in computer architecture, given the trade-off between performance gains and increased power consumption. Effective power management strategies are essential for sustainable computing, from personal devices to enterprise data centers.
 
+<p align="center">
+    <img src="../../images/week1/week1d.png" height="400" />
+</p>
+
+
 #### 4.1. Power Consumption Challenges
 - **Dynamic vs. Static Power Consumption**: Dynamic power is consumed when transistors switch states, whereas static power is due to leakage currents when transistors are in idle states. As transistor geometries shrink, static power has become an increasingly significant factor, necessitating new approaches to managing leakage and reducing overall energy use.
 - **Heat Dissipation and Cooling**: The power consumption of modern processors results in considerable heat generation, which can degrade performance and component longevity. Advanced cooling solutions, including liquid cooling and phase-change materials, are employed to mitigate thermal issues and maintain system stability.
@@ -123,6 +128,10 @@ Energy efficiency remains a pivotal concern in computer architecture, given the 
 ### 5. Trends in Cost
 
 Economic considerations are critical in the evolution and adoption of computing technologies. Factors such as fabrication complexity, economies of scale, and research and development investments all influence the cost dynamics of computer components.
+
+<p align="center">
+    <img src="../../images/week1/week1e.png" height="400" />
+</p>
 
 #### 5.1. Cost of Fabrication
 - **Cost per Transistor**: While the cost per transistor has historically decreased due to advancements in manufacturing processes, reaching smaller process nodes has increased fabrication costs. These rising costs are driven by the need for more advanced lithography, higher precision, and more complex design rules.
@@ -143,6 +152,10 @@ Economic considerations are critical in the evolution and adoption of computing 
 ### 6. Dependability
 
 Dependability is a critical attribute of computer architecture, encompassing reliability, availability, serviceability, and security. It ensures that systems operate consistently, withstand faults, and provide robust protection against security threats, which is vital for both consumer and mission-critical applications.
+
+<p align="center">
+    <img src="../../images/week1/week1f.png" height="400" />
+</p>
 
 #### 6.1. Reliability
 - **Mean Time Between Failures (MTBF)**: MTBF is a key metric for assessing system reliability, representing the average time between failures. High MTBF values indicate robust design and quality components, which contribute to the longevity and resilience of computing systems.
