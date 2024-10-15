@@ -7,6 +7,17 @@
 
 # Chapter 1: Fundamentals of Quantitative Design and Analysis
 
+# Introduction to Software Project Management (SPM)
+
+<p align="center">
+  <a href="https://drshahizan.github.io/spm/week1.html" target="_blank">
+    <img src="../images/week1.png" height="800" />
+  </a>
+</p>
+
+## The Fundamental Concepts of SPM
+Software Project Management (SPM) refers to the process of planning, executing, and overseeing software development projects. It involves applying project management principles specifically to software projects to ensure their successful completion within scope, time, and budget. SPM focuses on achieving project objectives while managing resources, risks, and stakeholder expectations.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
