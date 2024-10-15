@@ -9,7 +9,7 @@
 
 | Week   | Topic                                                                                                          |
 |:-----:|----------------------------------------------------------------------------------------------------------------|
-| 1   | **Chapter 1: Fundamentals of Quantitative Design and Analysis**<br>Classes of Computers, Defining Computer Architecture, Trends in Technology, Trends in Power and Energy in Integrated Circuits, Trends in Cost, Dependability |
+| 1   | **[Chapter 1: Fundamentals of Quantitative Design and Analysis](./week/week1.md)**<br>Classes of Computers, Defining Computer Architecture, Trends in Technology, Trends in Power and Energy in Integrated Circuits, Trends in Cost, Dependability |
 | 2   | **Benchmark**<br>Desktop Benchmarks, Server Benchmarks, Putting It All Together: Performance, Price and Power   |
 | 3   | **Chapter 2: Memory Hierarchy Design**<br>Basics of Memory Hierarchy, Memory Technology and Optimizations, Reducing Power Consumption in SDRAMs |
 | 4   | **Reducing Power Consumption in SDRAMs**                                                                        |
