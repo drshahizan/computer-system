@@ -82,7 +82,7 @@ Computer architecture encompasses the foundational principles that dictate the d
 The evolution of computer architecture is profoundly shaped by emerging technological trends, including advancements in hardware, novel computational models, and changing paradigms in how computing resources are utilized.
 
 <p align="center">
-    <img src="../../images/week1/week1c.png" height="500" />
+    <img src="../../images/week1/week1c.png" height="300" />
 </p>
 
 #### 3.1. Moore’s Law and Beyond
