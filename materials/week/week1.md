@@ -21,6 +21,10 @@
 
 Computers are categorized into various classes, each designed to fulfill specific roles within computational ecosystems. Understanding these categories reveals the diverse applications of computational power, spanning from personal productivity to solving complex scientific challenges.
 
+<p align="center">
+    <img src="../../images/week1/week1a.png" height="400" />
+</p>
+
 #### 1.1. Personal Computers (PCs)
 - **Desktops**: Typically deployed in residential and office environments, desktops are general-purpose systems characterized by their modularity and expandability. These systems are highly customizable, with users able to upgrade components such as graphics cards, memory, and storage, making them well-suited for a wide spectrum of applications, from routine office tasks to intensive gaming and content creation workflows.
 - **Laptops**: Portable computing systems that integrate processing power with mobility, addressing the requirements of both individual and professional users. Laptops come in various configurations, from lightweight ultrabooks for essential productivity tasks to high-performance gaming and workstation models that deliver substantial computational capabilities on the move.
