@@ -7,6 +7,12 @@
 
 # Benchmark 
 
+<p align="center">
+  <a href="https://drshahizan.github.io/acsa/week1.html" target="_blank">
+    <img src="../../images/week1.png" height="800" />
+  </a>
+</p>
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
