@@ -8,7 +8,7 @@
 # Benchmark 
 
 <p align="center">
-  <a href="https://drshahizan.github.io/acsa/MCSS2313w2.html" target="_blank">
+  <a href="https://drshahizan.github.io/acsa/week2.html" target="_blank">
     <img src="../../images/week1.png" height="800" />
   </a>
 </p>
