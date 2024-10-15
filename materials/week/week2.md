@@ -20,6 +20,10 @@ A benchmark is a rigorous, standardized methodology used to evaluate the perform
 ## 1. Desktop Benchmarks
 Desktop benchmarks are designed to evaluate individual components such as CPUs, GPUs, memory, and storage, to assess their performance in conventional user environments. These benchmarks offer users insights into the expected performance of their systems for routine tasks, gaming, and content creation. Moreover, they provide crucial information regarding a system's ability to manage contemporary applications and multitasking scenarios, ensuring an optimal user experience for diverse workloads.
 
+<p align="center">
+    <img src="../../images/week2/week2a.png" height="400" />
+</p>
+
 ### 1.1. CPU Benchmarks
 CPU benchmarks assess the computational power of a system's central processing unit. These evaluations encompass both single-core and multi-core performance, which are essential for understanding a system's capabilities across varied workloads.
 - **Single-Core Performance**: Critical for applications that predominantly utilize a single thread, such as many gaming and productivity software. Single-core benchmarks provide insight into how effectively a CPU can handle tasks where the performance per core is more impactful than the number of available cores.
