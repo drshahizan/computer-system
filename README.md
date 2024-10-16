@@ -14,8 +14,9 @@ This course focuses on advanced topics in the design and analysis of computer ar
 ### ✅ Tasks to Complete Before the First Lecture:
 Before attending the first lecture, make sure you've [**completed all the essential tasks**](./materials/tasks.md). These include setting up your learning environment, accessing the course materials, and preparing to fully engage in the class from day one. 📝💻
 
-- **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
-  
+### 👤 Student Information
+- **[Student Information](profile/readme.md)**: Access student information.
+    
 - **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
 
 - **[Weekly Schedule](./materials/schedule.md)**: Find detailed course content, schedules, and requirements for the current semester.
