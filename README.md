@@ -11,8 +11,9 @@
 This course focuses on advanced topics in the design and analysis of computer architectures. Topics covered include instruction set design, pipelining, instruction- level parallelism, high-speed memory systems, storage systems, interconnection networks, and multiprocessor architectures. Students will have an opportunity to perform research in these and other areas in the field of computer architecture. An undergraduate course in computer architecture (or equivalent) is the prerequisite.
 
 ## 🔥 Important Things
+
 ### ✅ Tasks to Complete Before the First Lecture:
-Before attending the first lecture, make sure you've [**completed all the essential tasks**](./materials/tasks.md). These include setting up your learning environment, accessing the course materials, and preparing to fully engage in the class from day one. 📝💻
+Before attending the first lecture, make sure you've [**completed all the essential tasks**](./materials/tasks.md). These include setting up your learning environment, accessing the course materials, and preparing to fully engage in the class from day one.
 
 ### 👤 Student Information
 - **[Student Information](profile/readme.md)**: Access student information.
