@@ -17,7 +17,7 @@
 | 6   | SHUHAN YANG                      | wodkas| [:octocat:](https://github.com/wodkas)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="wodkas"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 7   | WANG YOUMIN  | WANGYOUMIN0| [:octocat:](https://github.com/WANGYOUMIN0)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="WANGYOUMIN0"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 | 8   | YAHYA ADNAN GHADHBAN ALSAEDI | YahyaAdnan| [:octocat:](https://github.com/YahyaAdnan)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="YahyaAdnan"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
-| 9  | ZHENG QIXIAO      | Curry41     | [:octocat:](https://github.com/UmmiWahid)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="Curry41"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
+| 9  | ZHENG QIXIAO      | Curry41     | [:octocat:](https://github.com/Curry41)       | <a href="https://www.linkedin.com/in/"><img src="../images/linkedin.png" width="24px" height="24px"></a>  | <a href="Curry41"><img src="../images/portfolio.png" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
