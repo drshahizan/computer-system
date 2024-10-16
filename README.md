@@ -18,9 +18,9 @@ Before attending the first lecture, make sure you've [**completed all the essent
 - **[Student Information](profile/readme.md)**: Access student information.
 
 ### 📝 Course Information
-- **[Course Information](./images/V4_CI%20MCSD1043%20RM%20Data%20Science%20Sem24252.pdf)**: Detailed course content, schedules, and requirements for the current semester. 📅
+- **[Course Information](./images/V4_CI%20MCSD1043%20RM%20Data%20Science%20Sem24252.pdf)**: Detailed course content, schedules, and requirements for the current semester. 
 
-### 📂 Weekly Schedule
+### 📅 Weekly Schedule
 - **[Weekly Schedule](./materials/schedule.md)**: Find detailed course content, schedules, and requirements for the current semester.
   
 - **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
