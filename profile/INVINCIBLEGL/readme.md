@@ -1,6 +1,7 @@
 # GANLAI's Profile
 
-![Alt text](11016194956.jpg)
+
+![11016194956](https://github.com/user-attachments/assets/e78c2b03-aac5-4712-b6d9-52edf09b6ca0)
 
 
 
