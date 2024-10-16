@@ -22,12 +22,14 @@ Before attending the first lecture, make sure you've [**completed all the essent
 
 ### 📅 Weekly Schedule
 - **[Weekly Schedule](./materials/schedule.md)**: Find detailed course content, schedules, and requirements for the current semester.
-  
+
+### 📅 Assignment & Exercise
 - **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
-  
 - **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
-  
-- **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
+
+### 📝 Additional Resources
+- **[Additional Notes](./materials/add-notes.md)**: Additional reading materials and lecture notes.
+- **[Articles](./materials/article.md)**: Selected academic articles to support your research.
 
 
 ## Contribution 🛠️
