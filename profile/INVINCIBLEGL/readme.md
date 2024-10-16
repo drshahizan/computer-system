@@ -1,4 +1,6 @@
 # GANLAI's Profile
+![Alt text](![Alt text](https://github.com/username/repo/raw/main/path/to/image.png)
+
 
 ## About Me
 Hello! I'm GANLAI, a passionate individual who loves exploring new ideas and embracing creativity. I enjoy learning about technology, culture, and everything in between.I graduated from Tianjin University of Science and Technology, majoring in Computer Science.
