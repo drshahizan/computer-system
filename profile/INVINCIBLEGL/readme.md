@@ -1,5 +1,6 @@
 # GANLAI's Profile
-![Alt text](![Alt text](https://github.com/username/repo/raw/main/path/to/image.png)
+
+![Uploading 11016194956.jpg…]()
 
 
 ## About Me
