@@ -1,45 +1,34 @@
+![20030314](https://github.com/user-attachments/assets/3587b21d-6c13-471a-926e-c2f794eff174)
 ## LIU SHIQIAN
 
 ### **Profile**
 
-I am LIU SHIQIAN, a dedicated and passionate individual with a strong background in [your field or industry]. My expertise lies in [specific skills or experiences], and I have a proven track record of [achievements or accomplishments].
+I am LIU SHIQIAN, a dedicated and passionate individual with a strong background in Computer Science. My expertise lies in Computer System and Architecture, and I have a proven track record of getting a A in this course.
 
 ### **Experience**
 
-- **[Your Current Job Title]**, [Your Current Company]  
-  [Dates of Employment]  
-  - Achieved [specific goal or project].
-  - Developed skills in [relevant skills].
-
-- **[Your Previous Job Title]**, [Your Previous Company]  
-  [Dates of Employment]  
-  - Led initiatives in [relevant area].
-  - Successfully managed [task or responsibility].
+- **Software Development**, Nanjing Liandi Information System Co., Ltd
+  - Led initiatives in Front end page.
+  - Successfully managed a group to develop a Front end page.
 
 ### **Education**
 
-- **[Your Degree]**, [Your Major]  
-  [Your University], [Year of Graduation]  
+- **Bachelor of Engineering**, Software of Engineering  
+  Changzhou Institue of Technology, 6/2024 
 
 ### **Skills**
 
-- **Technical Skills**: [List of technical skills].
-- **Soft Skills**: [List of soft skills].
-
-### **Projects**
-
-- **[Project Name]**
-  - Description: [Brief description of the project].
-  - Outcome: [Key results or achievements].
+- **Technical Skills**: Using python to do some calculations.
+- **Programming language**: Python, java, C.
 
 ### **Interests**
 
-- [Interest 1]
-- [Interest 2]
-- [Interest 3]
+- Do some research about computer science.
+- Read books.
+- Singing, jumping, Rap, basketball.
 
 ### **Contact**
 
-- **Email**: [your email address]
-- **LinkedIn**: [your LinkedIn profile URL]
+- **Email**: liushiqian@graduate.utm.my
+- **Phone number**: +60 142930238
 
