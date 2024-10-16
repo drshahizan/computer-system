@@ -1,7 +1,7 @@
 # GANLAI's Profile
 
 ## About Me
-Hello! I'm GANLAI, a passionate individual who loves exploring new ideas and embracing creativity. I enjoy learning about technology, culture, and everything in between.
+Hello! I'm GANLAI, a passionate individual who loves exploring new ideas and embracing creativity. I enjoy learning about technology, culture, and everything in between.I graduated from Tianjin University of Science and Technology, majoring in Computer Science.
 
 ## Interests
 - **Technology:** Always on the lookout for the latest advancements and innovations.
