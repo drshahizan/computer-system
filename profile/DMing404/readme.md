@@ -2,7 +2,7 @@
 
 ---
 
-### !Chen MingWei(./photo.jpg)
+### ![Chen MingWei](./photo.jpg)
 
 ---
 
