@@ -7,10 +7,10 @@
 ---
 
 ### Contact Information
-📧 **Email**: [Your Email]  
-📞 **Phone**: [Your Phone Number]  
-🔗 **LinkedIn**: [Your LinkedIn Profile]  
-🌍 **Location**: [Your City, Country]
+📧 **Email**: [chenmingwei@graduate.utm.my]  
+📞 **Phone**: [+60 11 2757 1026]  
+🔗 **LinkedIn**: [Empty]  
+🌍 **Location**: [LuoYang, HeNan, China]
 
 ---
 
