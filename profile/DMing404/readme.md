@@ -16,17 +16,17 @@
 
 ### **Professional Summary**
 ---
-A **[brief description of yourself]** with X years of experience in [your field]. Proven expertise in [key skills]. Known for delivering [mention a major accomplishment or focus]. Seeking to contribute my abilities to [the type of company or industry you're interested in].
+A highly motivated software engineer with a strong foundation in algorithm design, artificial intelligence, and data structures.  Proficient in Python and experienced in developing machine learning models using TensorFlow and PyTorch.  Passionate about solving real-world problems through innovative technical solutions.
 
 ---
 
 ### **Skills**
 ---
 #### Technical Skills
-- **Programming Languages**: [List your languages]
-- **Frameworks & Libraries**: [Key frameworks like React, Django, etc.]
-- **Tools**: [List tools such as Docker, Kubernetes, etc.]
-- **Databases**: [Database knowledge, e.g., MySQL, MongoDB]
+- **Programming Languages**: [C++, Python, Java ]
+- **Frameworks & Libraries**: [PyTorch, TensorFlow, Keras, Django, Numpy, Pandas]
+- **System**: [MacOS, Windows, Linux]
+- **Databases**: [MySQL, sqlserver, redis]
 - **Version Control**: [Git, GitHub, Bitbucket]
 
 #### Soft Skills
