@@ -2,7 +2,7 @@
 
 ---
 
-### ![Your Photo](path/to/photo.jpg)
+### !(/照片.jpg)
 
 ---
 
