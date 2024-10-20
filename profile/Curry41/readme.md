@@ -14,7 +14,7 @@
 ---
 
 ## 🎓 Education
-- **Master of Science in Computer Science**  
+- **Master of Computer Science**  
   📍 _University Technology Malaysia, 2024 – Present_  
 
 - **Bachelor of Engineering in Software Engineering**  
