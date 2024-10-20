@@ -1,6 +1,6 @@
 <!-- Add your profile image -->
 <p align="center">
-  <img src="your-photo-url" width="150" style="border-radius: 50%;" alt="Your Name">
+  <img src="70K.jpg" width="150" style="border-radius: 50%;" alt="Your Name">
 </p>
 
 <h1 align="center">Hi 👋, I'm Zheng Qixiao</h1>
