@@ -3,7 +3,7 @@
 ![Profile Image](https://github.com/WANGYOUMIN0/1/blob/main/mmexport1687265541670.jpg)
 
 ## About Me
-Hello! I'm Wang Youmin, an enthusiastic individual with a passion for learning and engaging with diverse ideas. I graduated with a focus on financial computing and I am keen on bridging the gap between finance and technology.
+Hello! Hello! I'm Wang Youmin, an enthusiastic individual with a passion for learning and engaging with diverse ideas. I graduated with a degree in Computer Science and Technology from Nanyang Normal University (September 2019 - June 2023), and I am keen on bridging the gap between finance and technology.
 
 ## Interests
 - **Debate:** Enjoy discussing a wide range of topics, developing critical thinking and communication skills.
