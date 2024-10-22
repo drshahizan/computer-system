@@ -30,76 +30,50 @@ A highly motivated software engineer with a strong foundation in algorithm desig
 - **Version Control**: [Git, GitHub, Bitbucket]
 
 #### Soft Skills
-- [Leadership]
-- [Team Collaboration]
-- [Problem Solving]
-- [Adaptability]
+- Analytical Thinking
+- Problem Solving
+- Team Collaboration
 
 ---
 
 ### **Experience**
 ---
-#### **[Job Title]** | _[Company Name]_  
-[Location] | **[Start Date] – [End Date or Present]**
+#### **Data Analyst** | _Henan Xinweijie Technology Co., Ltd._  
+Zhengzhou, China | **March 2021 – November 2023**
 
 - **Key Responsibilities**:  
-  - [Description of a major responsibility or project]
-  - [Highlight of a contribution that improved process/results]
-  - [Impact on the team or company growth]
-
-#### **[Job Title]** | _[Company Name]_  
-[Location] | **[Start Date] – [End Date]**
-
-- **Key Responsibilities**:  
-  - [Description of a major responsibility or project]
-  - [Highlight of a contribution that improved process/results]
-  - [Impact on the team or company growth]
+  - Conducted daily data analysis for the company’s operations and prepared comprehensive daily reports.
+  - Monitored important operational data for anomalies and provided insights for business adjustments.
+  - Collaborated with different departments to optimize data-driven decisions, ensuring business efficiency and data integrity.
 
 ---
 
 ### **Education**
 ---
-**[Degree, Major]**  
-_[University Name]_ | [Location]  
-**Graduation Date**: [Month, Year]  
-- **Relevant Courses**: [List key courses or academic honors]
+**Bachelor of Science in Computer Science**  
+_Henan University of Technology_ | Zhengzhou, China  
+**Graduation Date**: January 2022  
+- **Relevant Courses**: C++, Java, Computer Networks
 
 ---
 
 ### **Projects**
 ---
-#### **[Project Name]**  
-- **Technologies Used**: [Mention tools and languages used]  
-- **Summary**: [Brief project description and key achievements]
+#### **Smart Scenic Area Project**  
+- **Technologies Used**: Python, Pandas, NumPy  
+- **Summary**: Analyzed daily tourist traffic and reservation data for a smart scenic area. Identified peak times and important visitor traffic trends, helping optimize resource allocation and improve visitor experience.
 
-#### **[Project Name]**  
-- **Technologies Used**: [Mention tools and languages used]  
-- **Summary**: [Brief project description and key achievements]
-
----
-
-### **Certifications**
----
-- **[Certification Name]** — _Issued by [Authority]_  
-  _[Month, Year]_
 
 ---
 
 ### **Languages**
 ---
-- **[Language 1]**: [Proficiency Level]
-- **[Language 2]**: [Proficiency Level]
-
----
-
-### **Awards & Honors**
----
-- **[Award Name]** — _Issued by [Authority]_  
-  _[Month, Year]_
+- **Mandarin**: Native
+- **English**: Intermediate
 
 ---
 
 ### **Interests**
 ---
-- [Briefly describe any personal interests, hobbies, or professional areas you're exploring]
+- Data Analysis, Data Science, Data Mining
 
