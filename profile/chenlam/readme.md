@@ -7,6 +7,6 @@ I'm a **Master of Computer Science student**. I enjoy solving complex problems a
 ### Interests & Skills
 
 - **Programming Languages**: Python, C++, SQL
-- **Hobbies**: Gaming, Traveling
+- **Hobbies**: Gaming, Traveling, Anime
 
 Looking forward to connecting and collaborating!
