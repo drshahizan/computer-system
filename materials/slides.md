@@ -17,6 +17,19 @@
 | Chapter 6  | Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism          | <a href="https://github.com/drshahizan/computer-system/blob/main/images/week1/chapter06.pdf"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> |<a href="https://bjpcjp.github.io/pdfs/cpus-quant/comparchs-ch06.pdf"><img src="../images/document-40.png" width="24px" height="24px"></a>|
 | Chapter 7  | Domain-Specific Architecture                                                           | <a href="https://github.com/drshahizan/computer-system/blob/main/images/week1/chapter07.pdf"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> | 
 
+## Figures from the Text
+
+
+| Description                       | Link                                                                                                  |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------|
+| Chapter 1-4 (PPT)                 | <a href="https://elsevier.widen.net/content/goypup1p8f/original/CompanionAsset_9780128119051_PPTchapter1_4.zip?u=ebnrhc&download=true">opens in new tab/window</a>                                               |
+| Chapter 1-4 (PDF)                 | <a href="#" target="_blank">opens in new tab/window</a>                                               |
+| Chapter 5-7 (PPT)                 | <a href="#" target="_blank">opens in new tab/window</a>                                               |
+| Chapter 5-7 (PDF)                 | <a href="#" target="_blank">opens in new tab/window</a>                                               |
+| Appendices A-M (PPT)              | <a href="#" target="_blank">opens in new tab/window</a>                                               |
+| Appendices A-M (PDF)              | <a href="#" target="_blank">opens in new tab/window</a>                                               | 
+
+You can replace `#` with the actual links if needed.
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
