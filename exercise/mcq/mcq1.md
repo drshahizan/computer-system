@@ -9,8 +9,6 @@
 
 ## Multiple-choice questions
 
-Based on the mind map structure in the image, here are 20 multiple-choice questions that cover the main topics:
-
 1. **Which of the following is NOT a class of computer according to the diagram?**
    - A) Personal Computers (PCs)
    - B) Mainframe Computers
