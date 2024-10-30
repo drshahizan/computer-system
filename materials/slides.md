@@ -7,16 +7,15 @@
 
 # Slides
 
-| Week   | Topic                                                                                                          |
-|:-----:|----------------------------------------------------------------------------------------------------------------|
-| 1   | **[Chapter 1: Fundamentals of Quantitative Design and Analysis](https://github.com/drshahizan/computer-system/blob/main/images/week1/Chapter1.pptx)**<br>Classes of Computers, Defining Computer Architecture, Trends in Technology, Trends in Power and Energy in Integrated Circuits, Trends in Cost, Dependability |
-| 3   | **Chapter 2: Memory Hierarchy Design**<br>Basics of Memory Hierarchy, Memory Technology and Optimizations, Reducing Power Consumption in SDRAMs |
-| 5   | **Chapter 3: Instruction-Level Parallelism and Its Exploitation**<br>Data Dependences, Name Dependences, Data Hazards, Branch-Target Buffers, Integrated Instruction Fetch Units, Speculation Support: Register Renaming Versus Reorder Buffers, The Challenge of More Issues Per Clock |
-| 7   | **Chapter 4: Data-Level Parallelism in Vector, SIMD, and GPU Architecture**<br>Vector Architecture, SIMD Instruction Set Extensions for Multimedia, Graphics Processing Units, NVIDIA GPU Computational Structures, NVIDIA GPU Instruction Set Architecture, NVIDIA GPU Memory Structure |
-| 9   | **Chapter 5: Thread-Level Parallelism**<br>Multiprocessor Architecture, Centralized Shared Memory Architecture, Performance of Symmetric Shared-Memory Multiprocessors |
-| 11  | **Chapter 6: Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism**<br>Warehouse-Scale Computer Programming Models and Workload, Warehouse-Scale Computer Architecture, Warehouse-Scale Computer Memory Hierarchy, Warehouse-Scale Computer Efficiency and Cost, Cloud Computing, Amazon Web Services |
-| 13  | **Chapter 7: Domain-Specific Architecture**<br>Google Tensor Processing Unit, An Inference Data Center Accelerator |
-
+| Chapter    | Title                                                                                  | File |
+|------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Chapter 1  | Fundamentals of Quantitative Design and Analysis                                       | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| Chapter 2  | Memory Hierarchy Design                                                                | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| Chapter 3  | Instruction-Level Parallelism and Its Exploitation                                     | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| Chapter 4  | Data-Level Parallelism in Vector, SIMD, and GPU Architecture                           | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| Chapter 5  | Thread-Level Parallelism                                                               | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| Chapter 6  | Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism          | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| Chapter 7  | Domain-Specific Architecture                                                           | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
 
 
 ## Contribution 🛠️
