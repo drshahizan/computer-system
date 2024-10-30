@@ -7,6 +7,11 @@
 
 # Exercise
 
+## Multiple-choice questions
+
+| Set | Topic  | File | 
+| :-----: |  ------ | :-----: | 
+| mcq1 | Chapter 1: Introduction  | <a href="./mcq/mcq1.md" ><img src="../images/question.svg" width="24px" height="24px" ></a> | <a href="" ><img src="../images/answer.png" width="24px" height="24px" ></a> |
 
 
 
