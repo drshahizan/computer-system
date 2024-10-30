@@ -8,7 +8,7 @@
 # Books
 - [Computer Architecture A Quantitative Approach](https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
 
-## Fundamentals of Computer
+## Fundamentals of Computer Architecture
 - [Performance Measurement](https://youtu.be/LwxUAqRzaAw?si=gss7K9nPpinAHKsz)
 - [Benchmarks](https://youtu.be/K-YLP4LmLP8?si=XFNZaskLShy6mOUD)
 - [Summarizing Performance](https://youtu.be/Yis4rDhtivo?si=9Bzen8_6BoO3e2Wa)
