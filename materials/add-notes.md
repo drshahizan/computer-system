@@ -12,7 +12,7 @@
 - [Performance Measurement](https://youtu.be/LwxUAqRzaAw?si=gss7K9nPpinAHKsz)
 - [Benchmarks](https://youtu.be/K-YLP4LmLP8?si=XFNZaskLShy6mOUD)
 - [Summarizing Performance](https://youtu.be/Yis4rDhtivo?si=9Bzen8_6BoO3e2Wa)
-- 
+- [CPU Performance Equation](https://youtu.be/jafpmMOw194?si=dHp69HJncWT7PGuv)
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
