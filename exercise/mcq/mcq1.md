@@ -9,11 +9,11 @@
 
 ## Multiple-choice questions
 
-1. **Which of the following is NOT a class of computer according to the diagram?**
+1. **Which category of computers focuses on high-performance computing and scientific simulations?**
    - A) Personal Computers (PCs)
-   - B) Mainframe Computers
-   - C) Mobile Devices
-   - D) Embedded Systems
+   - B) Servers
+   - C) Supercomputers
+   - D) Mobile Devices
 
 2. **Which component in computer architecture is responsible for executing arithmetic and logical operations?**
    - A) Memory Hierarchy
