@@ -9,13 +9,13 @@
 
 | Chapter    | Title                                                                                  | File |
 |------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Chapter 1  | Fundamentals of Quantitative Design and Analysis                                       | <a href="https://github.com/drshahizan/computer-system/blob/main/images/week1/Chapter1.pptx"><img src="../images/youtube.png" width="30px" height="30px"></a> |
-| Chapter 2  | Memory Hierarchy Design                                                                | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
-| Chapter 3  | Instruction-Level Parallelism and Its Exploitation                                     | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
-| Chapter 4  | Data-Level Parallelism in Vector, SIMD, and GPU Architecture                           | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
-| Chapter 5  | Thread-Level Parallelism                                                               | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
-| Chapter 6  | Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism          | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
-| Chapter 7  | Domain-Specific Architecture                                                           | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/youtube.png" width="30px" height="30px"></a> |
+| Chapter 1  | Fundamentals of Quantitative Design and Analysis                                       | <a href="https://github.com/drshahizan/computer-system/blob/main/images/week1/Chapter1.pptx"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> |
+| Chapter 2  | Memory Hierarchy Design                                                                | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> |
+| Chapter 3  | Instruction-Level Parallelism and Its Exploitation                                     | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> |
+| Chapter 4  | Data-Level Parallelism in Vector, SIMD, and GPU Architecture                           | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> |
+| Chapter 5  | Thread-Level Parallelism                                                               | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> |
+| Chapter 6  | Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism          | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> |
+| Chapter 7  | Domain-Specific Architecture                                                           | <a href="https://youtu.be/1pj7pSYWoxU?si=J5dUqfbpnyCJaCfD"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> |
 
 
 ## Contribution 🛠️
