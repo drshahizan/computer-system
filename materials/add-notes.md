@@ -8,14 +8,18 @@
 # Books
 - [Computer Architecture A Quantitative Approach](https://acs.pub.ro/~cpop/SMPA/Computer%20Architecture%20A%20Quantitative%20Approach%20(5th%20edition).pdf)
 
-## Fundamentals of Computer Architecture
-- [Performance Measurement](https://youtu.be/LwxUAqRzaAw?si=gss7K9nPpinAHKsz)
-- [Benchmarks](https://youtu.be/K-YLP4LmLP8?si=XFNZaskLShy6mOUD)
-- [Summarizing Performance](https://youtu.be/Yis4rDhtivo?si=9Bzen8_6BoO3e2Wa)
-- [CPU Performance Equation](https://youtu.be/jafpmMOw194?si=dHp69HJncWT7PGuv)
-- [Amdahl's Law](https://youtu.be/Axx2xuB-Xuo?si=mDKbnrUg6MyZoWNN)
-- [Amdahl's Law Example](https://youtu.be/QutASUpGzbc?si=FOYB4itaN3nAVmml)
+## **Fundamentals of Computer Architecture**
 
+| Topic                   | Link |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| Performance Measurement | [Watch here](https://youtu.be/LwxUAqRzaAw?si=gss7K9nPpinAHKsz) |
+| Benchmarks              | [Watch here](https://youtu.be/K-YLP4LmLP8?si=XFNZaskLShy6mOUD) |
+| Summarizing Performance | [Watch here](https://youtu.be/Yis4rDhtivo?si=9Bzen8_6BoO3e2Wa) |
+| CPU Performance Equation| [Watch here](https://youtu.be/jafpmMOw194?si=dHp69HJncWT7PGuv) |
+| Amdahl's Law            | [Watch here](https://youtu.be/Axx2xuB-Xuo?si=mDKbnrUg6MyZoWNN) |
+| Amdahl's Law Example    | [Watch here](https://youtu.be/QutASUpGzbc?si=FOYB4itaN3nAVmml) |
+
+This format allows for easy navigation through each topic. Let me know if you’d like any adjustments!
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
 
