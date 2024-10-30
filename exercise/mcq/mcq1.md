@@ -8,7 +8,7 @@
 # Exercise
 
 ## Instructions
-- Please use the [MCQ template](temp_mcq.md).
+- Please use the [MCQ template](mcq_template.md).
 - Please answer the following Multiple Choice Questions. You are required to submit your answer file in the submission folder. Within the [`submission`](submission/) folder, create a folder with your GitHub ID. Name the file as `mcq1.md`.
 
 ### Folder structure
