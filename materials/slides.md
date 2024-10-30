@@ -22,7 +22,7 @@
 
 | Description                       | Link                                                                                                  |
 |-----------------------------------|-------------------------------------------------------------------------------------------------------|
-| Chapter 1-4 (PPT)                 | <a href="https://elsevier.widen.net/content/goypup1p8f/original/CompanionAsset_9780128119051_PPTchapter1_4.zip?u=ebnrhc&download=true">opens in new tab/window</a>                                               |
+| Chapter 1-4 (PPT)                 | <a href="https://elsevier.widen.net/content/goypup1p8f/original/CompanionAsset_9780128119051_PPTchapter1_4.zip"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> |
 | Chapter 1-4 (PDF)                 | <a href="#" target="_blank">opens in new tab/window</a>                                               |
 | Chapter 5-7 (PPT)                 | <a href="#" target="_blank">opens in new tab/window</a>                                               |
 | Chapter 5-7 (PDF)                 | <a href="#" target="_blank">opens in new tab/window</a>                                               |
