@@ -7,7 +7,7 @@
 
 # Slides
 
-| Chapter    | Title                                                                                  | PPT | Doc |
+| Chapter    | Title                                                                                  | Ppt | Doc |
 |------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|---|
 | Chapter 1  | Fundamentals of Quantitative Design and Analysis                                       | <a href="https://github.com/drshahizan/computer-system/blob/main/images/week1/Chapter1.pdf"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> |
 | Chapter 2  | Memory Hierarchy Design                                                                | <a href="https://github.com/drshahizan/computer-system/blob/main/images/week1/chapter02.pdf"><img src="../images/powerpoint-48.png" width="30px" height="30px"></a> |
