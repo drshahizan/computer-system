@@ -7,6 +7,21 @@
 
 # Exercise
 
+## Instructions
+- Please use the [MCQ template](temp_mcq.md).
+- Please answer the following Multiple Choice Questions. You are required to submit your answer file in the submission folder. Within the [`submission`](submission/) folder, create a folder with your GitHub ID. Name the file as `mcq1.md`.
+
+### Folder structure
+
+```
+🗂️submission
+├── 📄readme.md
+├── 📁drshahizan
+│   ├── 📄mcq1.md
+│   ├── ...
+│   └── 📄mcq12.md
+├── 📁your github id
+```
 ## Multiple-choice questions
 
 1. **Which category of computers focuses on high-performance computing and scientific simulations?**
