@@ -17,7 +17,7 @@
 10. B) Virtualization Benchmarks
 11. B) Iozone
 12. B) Power Efficiency Metrics (Perf/Watt)
-13. B) Power consumed during no workload
+13. A) Power consumed during full load
 14. C) TPC-H
 15. B) Balance between hardware cost and performance
 16. B) Iometer
