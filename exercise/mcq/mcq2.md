@@ -23,7 +23,6 @@
 ├── 📁your github id
 ```
 ## Multiple-choice questions
-Here are 20 multiple-choice questions based on the mind map image:
 
 1. **Which of the following benchmarks is used to measure single-core and multi-core CPU performance in desktops?**
    - A) PassMark
