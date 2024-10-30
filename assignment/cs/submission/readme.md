@@ -12,7 +12,8 @@
 **Matrix No:MEC232023** 
 
 ## Answer
-1. For PEC CPU:
+
+1.For PEC CPU:
    
    Pros: Precise measurement of single-core and multi-core performance and Widely recognized in the industry
 
