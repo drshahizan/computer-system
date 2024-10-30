@@ -11,7 +11,7 @@
 ## Fundamentals of Computer
 - [Performance Measurement](https://youtu.be/LwxUAqRzaAw?si=gss7K9nPpinAHKsz)
 - [Benchmarks](https://youtu.be/K-YLP4LmLP8?si=XFNZaskLShy6mOUD)
-- [Summarizing Performance](https://youtu.be/Yis4rDhtivo?si=1sI7Y8S4F_FlIh1-)
+- [Summarizing Performance](https://youtu.be/Yis4rDhtivo?si=9Bzen8_6BoO3e2Wa)
 - 
 
 ## Contribution 🛠️
