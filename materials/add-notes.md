@@ -19,7 +19,6 @@
 | Amdahl's Law            | [Watch here](https://youtu.be/Axx2xuB-Xuo?si=mDKbnrUg6MyZoWNN) |
 | Amdahl's Law Example    | [Watch here](https://youtu.be/QutASUpGzbc?si=FOYB4itaN3nAVmml) |
 
-This format allows for easy navigation through each topic. Let me know if you’d like any adjustments!
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
 
