@@ -5,49 +5,44 @@
 <a href="https://github.com/drshahizan/computer-system/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/computer-system?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fcomputer-system&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Exercise
+## Case Study:
 
-## Instructions
-- Please use the [Case study template](cs_template.md).
-- Please answer the following Multiple Choice Questions. You are required to submit your answer file in the submission folder. Within the [`submission`](submission/) folder, create a folder with your GitHub ID. Name the file as `mcq1.md`.
+**Name:** Yahya A. G. Alsaedi
 
-### Folder structure
+**Matrix No:** MEC232024
 
-```
-🗂️submission
-├── 📄readme.md
-├── 📁drshahizan
-│   ├── 📄cs11.md
-│   ├── ...
-│   └── 📄cs12.md
-├── 📁your github id
-```
-## Case Study 1
-
-### Case Study: Evaluating Benchmarking Tools for Optimal System Performance
-
-**Background:**
-A large tech company, TechSolutions Inc., is expanding its data center capabilities to support a growing client base in cloud computing, AI, and data analytics services. The company needs to evaluate its hardware choices carefully, considering the performance, power efficiency, and cost-effectiveness of potential servers and desktop machines. TechSolutions is particularly focused on optimizing performance for CPU-intensive applications, high-speed data storage, and GPU-based workloads used in AI processing.
-
-To make an informed decision, the IT team has shortlisted several benchmarking tools across various categories. The team will use these tools to assess potential hardware configurations. For CPU testing, they’re considering tools like SPEC CPU and Geekbench; for storage benchmarks, they are looking at CrystalDiskMark and AS SSD; and for GPU performance, tools like 3DMark and FurMark are under review. In addition, since energy efficiency is a critical concern, they are analyzing power efficiency metrics (Perf/Watt) and idle power consumption to ensure long-term operational cost savings.
-
-The IT team faces several challenges:
-- They must balance performance, price, and power consumption.
-- Each benchmarking tool has different strengths, and choosing the right ones is crucial for accurate assessment.
-- The results will impact hardware selection and budgeting for the entire data center.
-
-**Case Study Questions:**
+## Answer
 
 1. **Which benchmarking tools would you recommend TechSolutions Inc. prioritize for evaluating CPU performance, and why?**
-   - *Consider the company’s focus on both single-core and multi-core performance for CPU-intensive applications.*
+
+   I. **Cinebench**, a free cross-platform test suite that evaluate GPU and CPU, it's effective because it tests both single-core and multi-core CPU. It's capable to use real-world processing tasks, since it tests the performance by rendering 3D scenes.
+
+   II. **Geekbench** is a measurment tool, that depends on tasks such as data compression, image processing, machine learning. The tool allow us to test the perforamce among diffrent devices, operating systems, and processors architectures, but it should be mentioned that the comparssion must be done with the same within the same test version (eg. Geekbench 5 with Geekbench 5).
+
+   III. **SPEC CPU**, which is a well known benchmark toolm that measure the performance of the processor, with a series of tests, to evaluate integer and floating-point workloads. This will provide comprehensive of CPU performance. Then the results can be submitted to an online DB, which allows the user to benchamrk their own CPU according the standards of the industry. 
 
 2. **How should TechSolutions Inc. approach storage benchmarking to ensure optimal data retrieval speed and reliability for its cloud computing services?**
-   - *Discuss which tools would be effective for assessing both read/write speeds and random access times.*
+
+   I. Check the Perforamce of the Memory , the benchamrk should be used to meuasre the speed of data transfer, with focusing on memory bandwidth and latency. Epecially in applications that handle huge amounts of data or demand real-time computation.
+ 
+      A. **Memory Bandwidth:** System responsiveness depends on high memory performance, especially in applications requiring real-time processing or handling of huge data quantities.
+
+      B. **Latency Tests:** Measure the latency between memory access and requests which determine how fast the CPU can get data and send it.
+
+   II. Use a Benchmark Tool, which will offer a detailed analysis of memory bandwidth, latency, and efficiency. This will help us to identify potential issues in system performance. The used Benchmark tools such as:
+
+   **AIDA64:** it uses a a number of 64-bit benchmarks to determine how quickly the systetm performs on a various data processing and mathematical operations. Multi-threaded memory and cache benchmarks are available to assess system RAM bandwidth and latency.
+
+   III. TechSolutions should Additionally benchmark their storage Hardware such as SSDs and HDDs, in the purpose of evaluating read/write speeds and IOPS (Input/Output Operations Per Second). 
 
 3. **What considerations should the IT team keep in mind regarding power efficiency when selecting hardware based on benchmarking results?**
-   - *Analyze the impact of idle power consumption and performance per watt on long-term operational costs.* 
 
-This case study prompts critical thinking on selecting and applying the right benchmarking tools based on specific organizational needs and goals.
+   I. **Power Consumption Rating:** Evaluate the components power consumption, to select components that balance performance and reduced energy costs.
+
+   II. **Performance per Watt:** Compare performance output to power consumption, the purpose of this it to select the hardware that gives the best performance for the least amount of energy.
+
+   III. **Energy Efficiency Certifications:** Choose parts with energy efficiency ratings such as Energy Star, which is a program that assists consumers in identifying energy-efficient items, to ensure they satisfy energy-saving standards.
+
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/computer-system/issues) for any improvements, suggestions or errors in the content.
