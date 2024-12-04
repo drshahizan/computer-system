@@ -15,7 +15,7 @@
 | 4   | **Reducing Power Consumption in SDRAMs**                                                                        |
 | 5   | **Chapter 3: Instruction-Level Parallelism and Its Exploitation**<br>Data Dependences, Name Dependences, Data Hazards, Branch-Target Buffers, Integrated Instruction Fetch Units, Speculation Support: Register Renaming Versus Reorder Buffers, The Challenge of More Issues Per Clock |
 | 6   | **Instruction-Level Parallelism and Its Exploitation**<br>Speculating Through Multiple Branches, Speculation and The Challenge of Energy Efficiency, Performance of A53 Pipeline, The Intel Core i7, Performance of i7 |
-| 7   | **Chapter 4: Data-Level Parallelism in Vector, SIMD, and GPU Architecture**<br>Vector Architecture, SIMD Instruction Set Extensions for Multimedia, Graphics Processing Units, NVIDIA GPU Computational Structures, NVIDIA GPU Instruction Set Architecture, NVIDIA GPU Memory Structure |
+| 7   | **[Chapter 4: Data-Level Parallelism in Vector, SIMD, and GPU Architecture](./week/week4.md)**<br>Vector Architecture, SIMD Instruction Set Extensions for Multimedia, Graphics Processing Units, NVIDIA GPU Computational Structures, NVIDIA GPU Instruction Set Architecture, NVIDIA GPU Memory Structure |
 | 8   | **Mid-Semester Break**                                                                                         |
 | 9   | **Chapter 5: Thread-Level Parallelism**<br>Multiprocessor Architecture, Centralized Shared Memory Architecture, Performance of Symmetric Shared-Memory Multiprocessors |
 | 10  | **Thread-Level Parallelism - Multi-core Processor**<br>Multicore-Based Processor on Multiprogrammed Workload    |
