@@ -28,7 +28,6 @@
 |                                          | Dissecting GPU memory hierarchy through microbenchmarking                                  | X. Mei, X. Chu                      | Analyzes NVIDIA GPU memory hierarchy evolution across architectures like Fermi and Kepler.                                                                   | [Read Article](https://ieeexplore.ieee.org/abstract/document/7445236)                    |
 |                                          | Multi-GPU system design with memory networks                                               | G. Kim, M. Lee, J. Kim              | Explores multi-GPU configurations and memory access optimization in NVIDIA systems.                                                                          | [Read Article](https://www.academia.edu/download/99530528/2014MICRO.pdf)                 |
 
-This table provides a structured overview of articles for each subtopic. Let me know if you need additional details!
 
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
