@@ -9,7 +9,7 @@
 
 Recent articles and white papers related to NVIDIA GPU advancements, SIMD instruction set extensions, and vector architecture:
 
-1. **"Computer Science Department" by V. Kandiah (2023)**  
+1. **"Uncovering Latent Hardware/Software Parallelism" by V. Kandiah (2023)**  
    - This thesis discusses maximizing SIMD/vector units for efficiency in GPUs. It validates advancements on NVIDIA's Volta GPU architecture, including the integration of AccelWattch for power-performance evaluation.  
    [Read PDF](https://www.mccormick.northwestern.edu/computer-science/documents/vijay-thesis.pdf)
 
