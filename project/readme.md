@@ -7,15 +7,15 @@
 
 # Article
 
-1. **Mustafa, D., Alkhasawneh, R., Obeidat, F., & Shatnawi, A. S. (2024).** MIMD programs execution support on SIMD machines: A holistic survey. *IEEE Access, 12*, 34354–34377. [https://doi.org/10.1109/ACCESS.2024.3372990](https://doi.org/10.1109/ACCESS.2024.3372990)
+1. **Mustafa, D., Alkhasawneh, R., Obeidat, F., & Shatnawi, A. S. (2024).** MIMD programs execution support on SIMD machines: A holistic survey. *IEEE Access, 12*, 34354–34377. [https://doi.org/10.1109/ACCESS.2024.3372990](01_mustafa.pdf)
 
-2. **Martínez, M. A., Fraguela, B. B., Cabaleiro, J. C., & Rivera, F. F. (2024).** A new thread-level speculative automatic parallelization model and library based on duplicate code execution. *The Journal of Supercomputing, 80*, 13714–13737. [https://doi.org/10.1007/s11227-024-05987-0](https://doi.org/10.1007/s11227-024-05987-0)
+2. **Martínez, M. A., Fraguela, B. B., Cabaleiro, J. C., & Rivera, F. F. (2024).** A new thread-level speculative automatic parallelization model and library based on duplicate code execution. *The Journal of Supercomputing, 80*, 13714–13737. [https://doi.org/10.1007/s11227-024-05987-0](02_martinez.pdf)
 
-3. **Müller, L., Schumacher, N., Steffen, L., & Haubelt, C. (2024).** Generative design of the architecture platform in multiprocessor system design. *Electronics, 13*(7), 1404. [https://doi.org/10.3390/electronics13071404](https://doi.org/10.3390/electronics13071404)
+3. **Müller, L., Schumacher, N., Steffen, L., & Haubelt, C. (2024).** Generative design of the architecture platform in multiprocessor system design. *Electronics, 13*(7), 1404. [https://doi.org/10.3390/electronics13071404](03_muller.pdf)
 
-4. **Falsafi, B., Ferdman, M., & Grot, B. (2024).** Server architecture from enterprise to post-Moore. *IEEE Micro, 44*(5), 65–73. [https://doi.org/10.1109/MM.2024.3418975](https://doi.org/10.1109/MM.2024.3418975)
+4. **Falsafi, B., Ferdman, M., & Grot, B. (2024).** Server architecture from enterprise to post-Moore. *IEEE Micro, 44*(5), 65–73. [https://doi.org/10.1109/MM.2024.3418975](04_falsafi.pdf)
 
-5. **Ranganathan, P., & Hölzle, U. (2024).** Twenty five years of warehouse-scale computing. *IEEE Micro, 44*(5), 11–22. [https://doi.org/10.1109/MM.2024.3409469](https://doi.org/10.1109/MM.2024.3409469)
+5. **Ranganathan, P., & Hölzle, U. (2024).** Twenty five years of warehouse-scale computing. *IEEE Micro, 44*(5), 11–22. [https://doi.org/10.1109/MM.2024.3409469](05_ranganathan.pdf)
 
 
 ## Contribution 🛠️
