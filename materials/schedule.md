@@ -17,7 +17,7 @@
 | 6   | **Instruction-Level Parallelism and Its Exploitation**<br>Speculating Through Multiple Branches, Speculation and The Challenge of Energy Efficiency, Performance of A53 Pipeline, The Intel Core i7, Performance of i7 |
 | 7   | **[Chapter 4: Data-Level Parallelism in Vector, SIMD, and GPU Architecture](./week/week4.md)**<br>Vector Architecture, SIMD Instruction Set Extensions for Multimedia, Graphics Processing Units, NVIDIA GPU Computational Structures, NVIDIA GPU Instruction Set Architecture, NVIDIA GPU Memory Structure |
 | 8   | **Mid-Semester Break**                                                                                         |
-| 9   | **Chapter 5: Thread-Level Parallelism**<br>Multiprocessor Architecture, Centralized Shared Memory Architecture, Performance of Symmetric Shared-Memory Multiprocessors |
+| 9   | **[Chapter 5: Thread-Level Parallelism](./week/week5.md)**<br>Multiprocessor Architecture, Centralized Shared Memory Architecture, Performance of Symmetric Shared-Memory Multiprocessors |
 | 10  | **Thread-Level Parallelism - Multi-core Processor**<br>Multicore-Based Processor on Multiprogrammed Workload    |
 | 11  | **Chapter 6: Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism**<br>Warehouse-Scale Computer Programming Models and Workload, Warehouse-Scale Computer Architecture, Warehouse-Scale Computer Memory Hierarchy, Warehouse-Scale Computer Efficiency and Cost, Cloud Computing, Amazon Web Services |
 | 12  | **Warehouse-Scale Computers Putting It All Together**<br>Google Warehouse-Scale Computer                        |
