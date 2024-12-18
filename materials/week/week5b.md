@@ -8,16 +8,11 @@
 # Assignment Instructions: Critical Review on Thread-Level Parallelism
 
 **Assignment Title**: Critical Review of a Scholarly Article on Thread-Level Parallelism  
-**Submission Date**: [Insert Deadline]  
-**Word Count**: 1,500–2,000 words  
-**Weightage**: [Insert Percentage of Total Grade]  
-
----
+**Submission Date**: 30 Dis 2024  
+**Word Count**: 1,500–2,000 words 
 
 ### **Objective**
 This assignment aims to enhance your understanding of *thread-level parallelism* (TLP) by analyzing and critically evaluating a scholarly article related to the topic. You will assess the strengths, weaknesses, and overall contributions of the article in advancing knowledge about TLP in one of the specified architectural contexts.
-
----
 
 ### **Article Selection**
 Choose an article that addresses *thread-level parallelism* in one of the following areas:
@@ -27,9 +22,7 @@ Choose an article that addresses *thread-level parallelism* in one of the follow
 4. **Multi-Core Processor**  
 5. **Multicore-Based Processors on Multiprogrammed Workloads**  
 
-Submit the article for approval by [Insert Date]. The selected article must be peer-reviewed, published within the last five years, and relevant to your chosen topic.
-
----
+Submit the article for approval by [**30 Dis 2024**]. The selected article must be peer-reviewed, published within the last five years, and relevant to your chosen topic.
 
 ### **Assignment Guidelines**
 
@@ -77,14 +70,10 @@ Submit the article for approval by [Insert Date]. The selected article must be p
    - Reiterate the article’s strengths, weaknesses, and contributions to the field.  
      *Example*: *“While the article highlights key advancements in TLP for multicore processors, its limited scope leaves room for broader investigations into heterogeneous systems.”*
 
----
-
 ### **2. Writing Requirements**
 - **Language**: Use formal, academic language. Avoid emotional or subjective opinions; focus on evidence-based arguments.  
 - **Word Count**: The review should be between 1,500–2,000 words.  
-- **Citations**: Reference the reviewed article and any additional sources in [Insert Referencing Style, e.g., APA, MLA, Chicago].  
-
----
+- **Citations**: Reference the reviewed article and any additional sources in [Insert Referencing Style, e.g., APA, MLA, Chicago]. 
 
 ### **3. Assessment Criteria**
 Your critical review will be assessed using the following rubric:
@@ -97,8 +86,6 @@ Your critical review will be assessed using the following rubric:
 | **Use of Evidence**               | 20%           |
 | **Referencing and Formatting**    | 10%           |
 
----
-
 ### **4. Tips for Success**
 - **Plan Your Review**: Start early to allow ample time for reading and drafting.  
 - **Focus on Thread-Level Parallelism**: Ensure your critique relates specifically to how the article addresses TLP in your chosen architecture.  
@@ -106,20 +93,13 @@ Your critical review will be assessed using the following rubric:
 - **Balance Your Critique**: Highlight both the strengths and weaknesses of the article.  
 - **Revise and Edit**: Proofread your review for clarity, grammar, and coherence before submission.
 
----
-
 ### **5. Submission Requirements**
-- Submit your assignment via [Insert Submission Platform, e.g., Turnitin, Google Classroom] by [Insert Deadline].  
+- Submit your assignment via e-learning by 30 Disember 2024.  
 - File format: [e.g., Word Document (.docx) or PDF].  
 - File naming convention: `[YourName_CriticalReview_ThreadLevelParallelism]`.  
 
----
-
 ### **6. Additional Resources**
 - Refer to course materials and recommended readings on thread-level parallelism for a broader understanding.  
-- For questions or guidance, contact your instructor during office hours or via email at [Insert Contact Information].  
-
----
 
 **This assignment will help you critically engage with advanced research and deepen your understanding of thread-level parallelism in modern computing architectures. Best of luck!**
 
