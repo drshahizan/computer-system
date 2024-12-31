@@ -19,7 +19,7 @@
 | 8   | **Mid-Semester Break**                                                                                         |
 | 9   | **[Chapter 5: Thread-Level Parallelism](./week/week5.md)**<br>Multiprocessor Architecture, Centralized Shared Memory Architecture, Performance of Symmetric Shared-Memory Multiprocessors |
 | 10  | **Thread-Level Parallelism - Multi-core Processor**<br>Multicore-Based Processor on Multiprogrammed Workload    |
-| 11  | **Chapter 6: Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism**<br>Warehouse-Scale Computer Programming Models and Workload, Warehouse-Scale Computer Architecture, Warehouse-Scale Computer Memory Hierarchy, Warehouse-Scale Computer Efficiency and Cost, Cloud Computing, Amazon Web Services |
+| 11  | **[Chapter 6: Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism](./week/week6.md)**<br>Warehouse-Scale Computer Programming Models and Workload, Warehouse-Scale Computer Architecture, Warehouse-Scale Computer Memory Hierarchy, Warehouse-Scale Computer Efficiency and Cost, Cloud Computing, Amazon Web Services |
 | 12  | **Warehouse-Scale Computers Putting It All Together**<br>Google Warehouse-Scale Computer                        |
 | 13  | **Chapter 7: Domain-Specific Architecture**<br>Google Tensor Processing Unit, An Inference Data Center Accelerator |
 | 14  | **Microsoft Catapult and Intel Crest**<br>Microsoft Catapult, A Flexible Data Center Accelerator, Intel Crest, A Data Center Accelerator for Training |
