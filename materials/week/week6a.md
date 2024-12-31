@@ -42,3 +42,9 @@
 - **AI for Resource Management**: Employing machine learning to predict usage patterns and dynamically allocate resources for optimal efficiency.
 
 These trends highlight the continuous evolution of WSCs to meet the demands of modern applications, emphasizing sustainability, performance, and innovation. Let me know if you’d like to incorporate this into your chapter or explore any trend further!
+
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
