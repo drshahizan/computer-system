@@ -7,6 +7,14 @@
 
 # Chapter 6: Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism
 
+Warehouse-scale computers (WSCs) are expansive data center infrastructures that form the foundation of modern cloud services and large-scale computing solutions. Designed to meet immense computational requirements, these systems emphasize efficiency, scalability, and the ability to handle enormous volumes of data and simultaneous client requests. To achieve this, WSCs utilize two critical types of parallelism:
+
+1. **Request-Level Parallelism (RLP)**: This type of parallelism enables the system to process multiple independent client requests concurrently. For example, a WSC can handle millions of search queries or video stream requests simultaneously, ensuring consistent and uninterrupted service delivery to users across different geographical regions.
+
+2. **Data-Level Parallelism (DLP)**: This approach involves dividing massive datasets into smaller, manageable segments that can be processed in parallel by multiple processors. By doing so, tasks such as machine learning model training or large-scale data analysis are completed much faster and with greater efficiency.
+
+These features make WSCs essential for various key applications, such as search engine indexing, streaming services, real-time analytics, and online retail operations. Their architecture is tailored to deliver high availability, minimize latency, and dynamically scale resources based on fluctuating workloads. This adaptability and robustness position WSCs as integral components of the digital infrastructure that drives today’s interconnected world.
+
 #### 6.1 Warehouse-Scale Computer Programming Models and Workload
 Warehouse-scale computers (WSCs) are massive data centers designed to meet the growing demands of cloud computing and distributed applications. These facilities use advanced programming models to manage large-scale operations effectively:
 
