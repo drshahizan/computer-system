@@ -5,9 +5,7 @@
 <a href="https://github.com/drshahizan/project-management/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/project-management?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fproject-management&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-# Chapter 6: 
-
-### Chapter 6: Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism
+# Chapter 6: Warehouse-Scale Computers to Exploit Request-Level and Data-Level Parallelism
 
 #### 6.1 Warehouse-Scale Computer Programming Models and Workload
 Warehouse-scale computers (WSCs) are massive data centers designed to meet the growing demands of cloud computing and distributed applications. These facilities use advanced programming models to manage large-scale operations effectively:
